@@ -45,6 +45,9 @@ a{
     flex-direction: column;
     gap: 32px;
 }
+img{
+    margin-left: 150px;
+}
 
 .logo {
     font-size: 32px;
